@@ -8,7 +8,9 @@
 mvn archetype:generate -DgroupId=com.wxnacy.spring -DartifactId=SpringMVC-HelloWorld -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
 ```
 首先使用上述命令创建一个空的 Web 项目，结构如下
+
 ![1](springhw1.png)
+
 ## 创建 Controller 和 View
 首先修改 `pom.xml` 文件，添加 SpringMVC 的依赖以及 Tomcat7 的插件
 ```xml
@@ -173,6 +175,7 @@ dispatcher.xml
 ```
 此时项目目录结构为
 ![2](/springhw2.png)
+
 启动项目
 ```bash
 $ mvn tomcat7:run
