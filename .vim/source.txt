@@ -1,0 +1,4 @@
+/Users/wxnacy/Desktop/idea-work/SpringMVC-HelloWorld/src/main/java/com/wxnacy/spring/controller/HelloWorldController.java
+/Users/wxnacy/Desktop/idea-work/SpringMVC-HelloWorld/src/main/resources/dispatcher.xml
+/Users/wxnacy/Desktop/idea-work/SpringMVC-HelloWorld/src/main/webapp/WEB-INF/web.xml
+/Users/wxnacy/Desktop/idea-work/SpringMVC-HelloWorld/src/main/webapp/index.jsp
